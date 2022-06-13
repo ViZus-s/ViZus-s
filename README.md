@@ -1,8 +1,5 @@
 # Hi there 👋
 
-How are you? I hope great.
-what can i tell about myself? 
-
 I use python and bash.
 
 I use Linux (Arch/Manjaro), my plans include creating my distributive based on Arch linux.
