@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**ViZus-s/ViZus-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+How are you? I hope great.
+what can i tell about myself? 
 
-Here are some ideas to get you started:
+I use python and bash.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use Linux (Arch/Manjaro), my plans include creating my distributive based on Arch linux.
+
+I write code in Visual Studio Code.
+
+I am an active Discord user.
+
+[![My Skills](https://skillicons.dev/icons?i=py,linux,bash,vscode,discord)](https://skillicons.dev)
