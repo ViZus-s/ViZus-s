@@ -1,11 +1,9 @@
-# Hi there 👋
+  # Hi there 👋
 
-I use python and bash.
+I use Python/C/Bash.
 
 I use Linux (Arch/Manjaro), my plans include creating my distributive based on Arch linux.
 
 I write code in Visual Studio Code.
 
-I am an active Discord user.
-
-[![My Skills](https://skillicons.dev/icons?i=py,linux,bash,vscode,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,py,c,linux,vscode,discord&perline=3)](https://skillicons.dev)
